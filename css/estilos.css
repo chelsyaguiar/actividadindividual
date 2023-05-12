@@ -1,0 +1,11 @@
+div2 {color: rgb(18, 19, 18);
+    background-color: rgb(146, 230, 230);
+}
+
+.estilo1{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+@media screen (max-)
